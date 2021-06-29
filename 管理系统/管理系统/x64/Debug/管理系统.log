@@ -1,0 +1,19 @@
+﻿  算法.cpp
+c1xx : fatal error C1083: 无法打开源文件: “F:\QQfile\838947345\FileRecv\算法.cpp”: No such file or directory
+  源.cpp
+D:\林婧虹\数构\图书管理系统\管理系统\管理系统\源.cpp(112,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\林婧虹\数构\图书管理系统\管理系统\管理系统\源.cpp(114,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\林婧虹\数构\图书管理系统\管理系统\管理系统\源.cpp(116,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\林婧虹\数构\图书管理系统\管理系统\管理系统\源.cpp(118,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\林婧虹\数构\图书管理系统\管理系统\管理系统\源.cpp(120,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\林婧虹\数构\图书管理系统\管理系统\管理系统\源.cpp(128,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\林婧虹\数构\图书管理系统\管理系统\管理系统\源.cpp(216,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\林婧虹\数构\图书管理系统\管理系统\管理系统\源.cpp(253,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\林婧虹\数构\图书管理系统\管理系统\管理系统\源.cpp(290,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\林婧虹\数构\图书管理系统\管理系统\管理系统\源.cpp(305,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\林婧虹\数构\图书管理系统\管理系统\管理系统\源.cpp(307,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\林婧虹\数构\图书管理系统\管理系统\管理系统\源.cpp(309,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\林婧虹\数构\图书管理系统\管理系统\管理系统\源.cpp(311,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\林婧虹\数构\图书管理系统\管理系统\管理系统\源.cpp(313,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\林婧虹\数构\图书管理系统\管理系统\管理系统\源.cpp(332,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
